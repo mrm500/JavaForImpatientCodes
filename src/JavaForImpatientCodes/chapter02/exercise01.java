@@ -1,3 +1,4 @@
+package JavaForImpatientCodes.chapter02;
 import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.time.Month;
@@ -5,7 +6,7 @@ import java.time.Year;
 import java.time.temporal.ChronoField;
 import java.util.ArrayList;
 
-public class chapter2 {
+public class exercise01 {
     public static void main(String[] args){
 
         Calender cal = new Calender();

@@ -1,7 +1,8 @@
+package JavaForImpatientCodes.chapter01;
 import java.util.*;
 import java.math.BigInteger;
 
-public class chapter1 {
+public class exercise01{
 
     public static void main(String[] args) {
 
