@@ -11,7 +11,6 @@ public class exercise10 {
         );
         File checker;
         for(File file: list){
-            if(file.isDirectory())
                 System.out.println(file.getAbsolutePath());
         }
     }
